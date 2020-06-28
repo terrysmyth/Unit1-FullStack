@@ -69,6 +69,12 @@ h1 {
   margin-left: 10px;
 }
 
+
+.quote-box p:nth-child(2) {
+  text-align: right;
+  margin-right: 0px;
+}
+
 .quote:before,
 .quote:after {
   font-size: 3rem;
@@ -94,7 +100,6 @@ h1 {
   letter-spacing: 0.05em;
   line-height: 1.1;
   text-align: right;
-  margin-right: 4em;
 }
 
 .source:before {
